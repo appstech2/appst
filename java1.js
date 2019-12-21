@@ -1,4 +1,3 @@
-<script>
 //<![CDATA[
 window['onload'] = function() {
     $('.loading')['fadeOut'](function() {
@@ -316,4 +315,3 @@ if (allow_chat_head == 'on' || allow_chat_head == 'true' || allow_chat_head === 
     }, 4000)
 }
 //]]>
-</script>
